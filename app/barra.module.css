@@ -2,7 +2,7 @@ html > body> header> nav> ul.barra {
 
     display: flex;
     flex-direction: row;
-    background-color: lightgreen;
+    background-color: green;
     gap: 5px;
     color: lightgray;
 
