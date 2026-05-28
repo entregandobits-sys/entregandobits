@@ -1,4 +1,4 @@
-html > body> header> nav> ul .barra {
+html > body> header> nav> ul.barra {
 
     display: flex;
     flex-direction: row;
