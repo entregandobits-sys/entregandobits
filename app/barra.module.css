@@ -5,5 +5,7 @@ html > body> header> nav> ul.barra {
     background-color: green;
     gap: 5px;
     color: lightgray;
+    list-style: none;
+    text-decoration: none;
 
 }
