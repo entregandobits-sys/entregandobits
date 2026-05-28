@@ -1,0 +1,9 @@
+html > body> header> nav> ul .barra {
+
+    display: flex;
+    flex-direction: row;
+    background-color: lightgreen;
+    gap: 5px;
+    color: lightgray;
+
+}
